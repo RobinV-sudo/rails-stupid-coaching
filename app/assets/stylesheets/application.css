@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+ form {
+  color: #fae04b;
+ }
+
+ h1 {
+  color: #fae04b;
+ }
+
+ p {
+  color: #fae04b;
+ }
